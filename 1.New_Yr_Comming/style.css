@@ -1,0 +1,38 @@
+*{
+    
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+     overflow-y: hidden;
+}
+body{
+    background-color: black;
+}
+.main{
+   
+    height: 100vh;
+    background-color: rgb(163, 218, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;   
+    margin: 50px 50px;
+    font-size: 25px;
+    
+}
+
+ .nav{
+     display: flex;
+     justify-content: center;
+     margin-bottom: -50px;
+     color: aliceblue;
+ }
+  
+.on{
+    padding: 15px;
+     
+}
+.emojii{
+    font-size: 50px;
+}
