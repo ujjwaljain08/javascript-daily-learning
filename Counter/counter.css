@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@800&display=swap');
+
+*{
+    background-color: rgb(29, 27, 27);
+    font-family: 'Trispace', sans-serif;
+}
+body{
+    text-align: center;
+    margin-top: 15%;
+}
+body button{
+    box-sizing: border-box;
+   
+    border-color: darkolivegreen;
+    border-width: 0.5cm;
+    color: thistle;
+     
+}
+.bg{
+    background-color: darkseagreen;
+}
+h1{
+    color: wheat;
+}
